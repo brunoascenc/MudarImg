@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.comprar {
+    width: 360px;
+    background: #ffffff;
+    position: absolute;
+    top: -15%;
+    padding: 2%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.produto {
+    height: 420px;
+    overflow: hidden;
+    background: #ffffff;
+    position: relative;
+}
+
+#img1 {
+    width: 280px;
+    height: 290px;
+}
+
+.trocarImg {
+    text-align: center;
+}
+
+.trocarImg img{
+    width: 80px ;
+    height: 80px ;
+    border: solid 1px #ccc;
+    margin: 8px 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.trocarImg img:hover {
+    border-color: black;
+
+}
+
+
+
+
+
+.comprar {
+    width: 360px;
+    background: #ffffff;
+    position: absolute;
+    top: -15%;
+    padding: 2%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.produto {
+    height: 420px;
+    overflow: hidden;
+    background: #ffffff;
+    position: relative;
+}
+
+#img1 {
+    width: 280px;
+    height: 290px;
+}
+
+.trocarImg {
+    text-align: center;
+}
+
+.trocarImg img{
+    width: 80px ;
+    height: 80px ;
+    border: solid 1px #ccc;
+    margin: 8px 2px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.trocarImg img:hover {
+    border-color: black;
+}
+
